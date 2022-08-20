@@ -6,4 +6,4 @@
 * [파이토치 한국어 모델 허브](https://pytorch.kr/hub)
 * [파이토치 한국어 튜토리얼](https://tutorials.pytorch.kr)
 * [파이토치 한국어 커뮤니티](https://discuss.pytorch.kr)
-* [파이토치 한국 사용자 모임에 기여해주신 분들](https://pytorch.kr/about/contributors)
+* [파이토치 한국 사용자 모임에 기여해주신 분들](https://pytorch.kr/contributors)
